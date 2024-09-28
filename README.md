@@ -2,7 +2,7 @@
 <h1 align="center">Hi There👋, I'm Abhinav Shukla</h1>
 <h3 align="center">Passionate about Android Development and Machine Learning.</h3>
 
-<img align="right" alt ="Coding" width=400 src ="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt ="Coding" width=300 src ="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishukla0204&label=Profile%20views&color=0e75b6&style=flat" alt="abhishukla0204" /> </p>
 
@@ -17,7 +17,7 @@
 <a href="https://kaggle.com/abhi0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhi0204" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi_shukla0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_shukla0204" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhi_sh0204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_sh0204" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shukla_abhinav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shukla_abhinav01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shukla_abhinav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shukla_abhinav01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhi_sh0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhi_sh0204" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi_sh0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_sh0204" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhishukla0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishukla0204" height="30" width="40" /></a>
