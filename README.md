@@ -16,11 +16,11 @@
 <a href="https://www.linkedin.com/in/abhinav-shukla-09304b1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav shukla" height="30" width="40" /></a>
 <a href="https://kaggle.com/abhi0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhi0204" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi_shukla0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_shukla0204" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhi_sh0204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_sh0204" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shukla_abhinav01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shukla_abhinav01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhi_sh0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhi_sh0204" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi_sh0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi_sh0204" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhishukla0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishukla0204" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhi_sh0204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhi_sh0204" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
